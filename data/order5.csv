@@ -1,0 +1,101 @@
+order_time,category,product_name,price,quantity,sales,days_for_shipping(expected),shipping_time
+2015년 01월 20일 21시 52분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,5,249.9,6,2015년 01월 26일 15시 42분 00초
+2015년 02월 07일 22시 53분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,2,99.96,6,2015년 02월 09일 12시 33분 00초
+2015년 02월 08일 13시 15분 00초,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,5,250.0,3,2015년 02월 10일 10시 29분 00초
+2015년 02월 24일 03시 25분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,3,179.97,6,2015년 03월 02일 16시 14분 00초
+2015년 03월 09일 03시 56분 00초,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,3,299.97,6,2015년 03월 12일 14시 59분 00초
+2015년 03월 19일 23시 11분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,4,199.92,3,2015년 03월 21일 13시 25분 00초
+2015년 03월 24일 10시 44분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,5,299.95,2,2015년 03월 24일 12시 37분 00초
+2015년 03월 26일 20시 33분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,3,149.94,3,2015년 03월 28일 20시 21분 00초
+2015년 04월 02일 00시 02분 00초,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,3,299.97,4,2015년 04월 08일 13시 45분 00초
+2015년 04월 06일 09시 09분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,3,2015년 04월 08일 10시 59분 00초
+2015년 04월 07일 00시 12분 00초,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,1,50.0,3,2015년 04월 09일 15시 28분 00초
+2015년 05월 04일 02시 06분 00초,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2015년 05월 08일 19시 08분 00초
+2015년 05월 09일 23시 17분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2015년 05월 11일 10시 08분 00초
+2015년 05월 14일 02시 05분 00초,Accessories,Team Golf New England Patriots Putter Grip,24.99,5,124.95,6,2015년 05월 18일 10시 57분 00초
+2015년 05월 17일 10시 40분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,2,119.98,6,2015년 05월 21일 17시 26분 00초
+2015년 05월 28일 22시 02분 00초,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,30.0,2,60.0,6,2015년 06월 02일 17시 57분 00초
+2015년 05월 31일 08시 53분 00초,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,4,159.96,3,2015년 06월 02일 17시 51분 00초
+2015년 06월 08일 21시 30분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2015년 06월 10일 10시 21분 00초
+2015년 06월 18일 05시 43분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2015년 06월 20일 14시 11분 00초
+2015년 06월 21일 07시 38분 00초,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,65.0,1,65.0,6,2015년 06월 24일 18시 28분 00초
+2015년 06월 27일 00시 37분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,4,239.96,2,2015년 06월 27일 17시 18분 00초
+2015년 07월 05일 09시 43분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,2,2015년 07월 05일 17시 18분 00초
+2015년 07월 08일 17시 57분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2015년 07월 10일 14시 27분 00초
+2015년 07월 15일 15시 40분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2015년 07월 20일 15시 52분 00초
+2015년 07월 23일 17시 45분 00초,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2015년 07월 27일 13시 05분 00초
+2015년 08월 20일 09시 18분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2015년 08월 23일 20시 03분 00초
+2015년 08월 21일 19시 17분 00초,Lacrosse,Under Armour Men's Tech II T-Shirt,24.99,1,24.99,6,2015년 08월 26일 10시 01분 00초
+2015년 08월 29일 03시 10분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,2,2015년 08월 29일 18시 57분 00초
+2015년 09월 16일 04시 32분 00초,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,3,119.97,6,2015년 09월 20일 14시 05분 00초
+2015년 09월 25일 09시 15분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2015년 09월 29일 20시 18분 00초
+2015년 10월 11일 14시 29분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,4,2015년 10월 16일 14시 15분 00초
+2015년 10월 19일 10시 37분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2015년 10월 21일 15시 46분 00초
+2015년 10월 24일 06시 56분 00초,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,3,2015년 10월 26일 17시 44분 00초
+2015년 10월 26일 03시 47분 00초,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,3,119.97,6,2015년 10월 28일 16시 07분 00초
+2015년 10월 28일 18시 08분 00초,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,4,200.0,6,2015년 11월 02일 16시 48분 00초
+2015년 10월 31일 04시 39분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,4,239.96,6,2015년 11월 02일 11시 49분 00초
+2015년 11월 19일 11시 06분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,1,49.98,6,2015년 11월 21일 20시 33분 00초
+2015년 12월 09일 01시 58분 00초,Golf Gloves,Bag Boy Beverage Holder,24.99,5,124.95,3,2015년 12월 11일 20시 37분 00초
+2015년 12월 09일 09시 40분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2015년 12월 12일 15시 32분 00초
+2015년 12월 16일 05시 59분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,4,199.92,2,2015년 12월 16일 16시 55분 00초
+2015년 12월 23일 11시 24분 00초,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,4,200.0,6,2015년 12월 25일 11시 04분 00초
+2015년 12월 29일 08시 57분 00초,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,1,99.99,6,2016년 01월 04일 14시 19분 00초
+2015년 12월 31일 02시 38분 00초,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,25.0,3,75.0,6,2016년 01월 05일 11시 21분 00초
+2016년 01월 05일 19시 16분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,1,59.99,6,2016년 01월 10일 15시 23분 00초
+2016년 01월 12일 07시 31분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,1,59.99,6,2016년 01월 18일 19시 56분 00초
+2016년 01월 26일 00시 09분 00초,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,2,79.98,4,2016년 01월 30일 10시 06분 00초
+2016년 02월 07일 03시 38분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,4,239.96,6,2016년 02월 13일 10시 08분 00초
+2016년 03월 19일 21시 58분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,3,179.97,3,2016년 03월 21일 14시 10분 00초
+2016년 03월 24일 01시 07분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,3,2016년 03월 26일 20시 50분 00초
+2016년 03월 31일 02시 41분 00초,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,3,150.0,6,2016년 04월 04일 15시 49분 00초
+2016년 04월 05일 14시 25분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2016년 04월 10일 11시 51분 00초
+2016년 04월 28일 18시 25분 00초,Electronics,Titleist Pro V1 High Numbers Personalized Gol,51.99,4,207.96,6,2016년 04월 30일 14시 57분 00초
+2016년 05월 25일 05시 14분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,3,179.97,4,2016년 05월 29일 10시 47분 00초
+2016년 06월 26일 05시 53분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2016년 06월 29일 10시 38분 00초
+2016년 06월 27일 22시 11분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,2,2016년 06월 28일 15시 55분 00초
+2016년 07월 02일 14시 38분 00초,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,4,159.96,4,2016년 07월 06일 16시 37분 00초
+2016년 08월 09일 09시 41분 00초,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2016년 08월 12일 10시 56분 00초
+2016년 08월 11일 13시 32분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,3,179.97,4,2016년 08월 17일 13시 06분 00초
+2016년 08월 11일 14시 35분 00초,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,4,2016년 08월 15일 18시 31분 00초
+2016년 08월 19일 14시 55분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,3,2016년 08월 21일 18시 16분 00초
+2016년 10월 20일 02시 13분 00초,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,31.99,4,127.96,6,2016년 10월 24일 13시 12분 00초
+2016년 10월 22일 02시 34분 00초,Golf Gloves,Clicgear Rovic Cooler Bag,39.99,5,199.95,3,2016년 10월 24일 13시 07분 00초
+2016년 10월 22일 19시 02분 00초,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2016년 10월 26일 19시 51분 00초
+2016년 11월 16일 03시 04분 00초,Golf Gloves,Bag Boy Beverage Holder,24.99,2,49.98,4,2016년 11월 22일 11시 16분 00초
+2016년 11월 23일 17시 57분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,4,2016년 11월 26일 19시 22분 00초
+2016년 11월 28일 02시 42분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,2,99.96,4,2016년 11월 30일 12시 05분 00초
+2016년 11월 29일 02시 52분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,5,249.9,2,2016년 11월 29일 09시 27분 00초
+2016년 12월 16일 18시 26분 00초,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,1,50.0,6,2016년 12월 21일 13시 16분 00초
+2016년 12월 17일 02시 30분 00초,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,5,499.95,4,2016년 12월 20일 18시 03분 00초
+2016년 12월 26일 09시 19분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2016년 12월 30일 17시 46분 00초
+2016년 12월 26일 15시 58분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,2,2016년 12월 27일 09시 00분 00초
+2016년 12월 31일 15시 26분 00초,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2017년 01월 04일 13시 15분 00초
+2017년 01월 10일 08시 46분 00초,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,5,250.0,6,2017년 01월 15일 09시 10분 00초
+2017년 02월 10일 23시 58분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,4,2017년 02월 12일 20시 21분 00초
+2017년 02월 19일 22시 43분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,5,249.9,4,2017년 02월 24일 09시 13분 00초
+2017년 02월 20일 19시 24분 00초,Accessories,Team Golf San Francisco Giants Putter Grip,24.99,4,99.96,6,2017년 02월 24일 12시 42분 00초
+2017년 02월 25일 02시 03분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2017년 02월 27일 20시 48분 00초
+2017년 02월 25일 09시 45분 00초,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,3,119.97,6,2017년 03월 01일 10시 34분 00초
+2017년 03월 01일 19시 33분 00초,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,5,499.95,6,2017년 03월 07일 12시 46분 00초
+2017년 03월 07일 07시 17분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,2,119.98,4,2017년 03월 09일 10시 30분 00초
+2017년 04월 03일 21시 05분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2017년 04월 09일 18시 08분 00초
+2017년 04월 08일 13시 33분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,3,2017년 04월 10일 09시 42분 00초
+2017년 04월 18일 22시 39분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2017년 04월 21일 10시 22분 00초
+2017년 04월 24일 18시 05분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2017년 04월 30일 13시 04분 00초
+2017년 05월 29일 15시 45분 00초,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,4,200.0,6,2017년 05월 31일 16시 16분 00초
+2017년 06월 03일 00시 09분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2017년 06월 08일 12시 31분 00초
+2017년 06월 06일 15시 24분 00초,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,4,2017년 06월 10일 17시 38분 00초
+2017년 06월 15일 21시 31분 00초,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,3,119.97,3,2017년 06월 17일 20시 10분 00초
+2017년 06월 19일 20시 27분 00초,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2017년 06월 23일 17시 46분 00초
+2017년 06월 20일 17시 28분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2017년 06월 24일 13시 15분 00초
+2017년 07월 20일 08시 19분 00초,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,119.99,1,119.99,6,2017년 07월 23일 09시 36분 00초
+2017년 07월 20일 10시 26분 00초,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,5,249.9,3,2017년 07월 22일 13시 44분 00초
+2017년 07월 23일 17시 15분 00초,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,4,159.96,4,2017년 07월 27일 11시 34분 00초
+2017년 08월 01일 03시 45분 00초,Cleats,Perfect Fitness Perfect Rip Deck,59.99,1,59.99,6,2017년 08월 03일 16시 35분 00초
+2017년 08월 02일 05시 20분 00초,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2017년 08월 07일 10시 27분 00초
+2017년 09월 13일 21시 23분 00초,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,2,2017년 09월 14일 20시 43분 00초
+2017년 10월 11일 14시 20분 00초,Cameras ,Web Camera,452.04,1,452.04,2,2017년 10월 12일 20시 48분 00초
+2017년 10월 19일 15시 23분 00초,Children's Clothing,Children's heaters,357.1,1,357.1,6,2017년 10월 21일 14시 16분 00초
+2018년 01월 01일 04시 04분 00초,Garden,Lawn mower,532.58,1,532.58,4,2018년 01월 05일 16시 39분 00초
+2018년 01월 18일 15시 47분 00초,Video Games,Fighting video games,39.75,1,39.75,6,2018년 01월 20일 10시 27분 00초

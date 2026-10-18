@@ -1,0 +1,101 @@
+order_time,category,product_name,price,quantity,sales,days_for_shipping(expected),shipping_time
+2015/01/20 21:52:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,5,249.9,6,2015/01/26 15:42:00
+2015/02/07 22:53:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,2,99.96,6,2015/02/09 12:33:00
+2015/02/08 13:15:00,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,5,250.0,3,2015/02/10 10:29:00
+2015/02/24 03:25:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,3,179.97,6,2015/03/02 16:14:00
+2015/03/09 03:56:00,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,3,299.97,6,2015/03/12 14:59:00
+2015/03/19 23:11:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,4,199.92,3,2015/03/21 13:25:00
+2015/03/24 10:44:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,5,299.95,2,2015/03/24 12:37:00
+2015/03/26 20:33:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,3,149.94,3,2015/03/28 20:21:00
+2015/04/02 00:02:00,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,3,299.97,4,2015/04/08 13:45:00
+2015/04/06 09:09:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,3,2015/04/08 10:59:00
+2015/04/07 00:12:00,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,1,50.0,3,2015/04/09 15:28:00
+2015/05/04 02:06:00,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2015/05/08 19:08:00
+2015/05/09 23:17:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2015/05/11 10:08:00
+2015/05/14 02:05:00,Accessories,Team Golf New England Patriots Putter Grip,24.99,5,124.95,6,2015/05/18 10:57:00
+2015/05/17 10:40:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,2,119.98,6,2015/05/21 17:26:00
+2015/05/28 22:02:00,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,30.0,2,60.0,6,2015/06/02 17:57:00
+2015/05/31 08:53:00,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,4,159.96,3,2015/06/02 17:51:00
+2015/06/08 21:30:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2015/06/10 10:21:00
+2015/06/18 05:43:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2015/06/20 14:11:00
+2015/06/21 07:38:00,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,65.0,1,65.0,6,2015/06/24 18:28:00
+2015/06/27 00:37:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,4,239.96,2,2015/06/27 17:18:00
+2015/07/05 09:43:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,2,2015/07/05 17:18:00
+2015/07/08 17:57:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2015/07/10 14:27:00
+2015/07/15 15:40:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2015/07/20 15:52:00
+2015/07/23 17:45:00,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2015/07/27 13:05:00
+2015/08/20 09:18:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2015/08/23 20:03:00
+2015/08/21 19:17:00,Lacrosse,Under Armour Men's Tech II T-Shirt,24.99,1,24.99,6,2015/08/26 10:01:00
+2015/08/29 03:10:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,2,2015/08/29 18:57:00
+2015/09/16 04:32:00,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,3,119.97,6,2015/09/20 14:05:00
+2015/09/25 09:15:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2015/09/29 20:18:00
+2015/10/11 14:29:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,4,2015/10/16 14:15:00
+2015/10/19 10:37:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2015/10/21 15:46:00
+2015/10/24 06:56:00,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,3,2015/10/26 17:44:00
+2015/10/26 03:47:00,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,3,119.97,6,2015/10/28 16:07:00
+2015/10/28 18:08:00,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,4,200.0,6,2015/11/02 16:48:00
+2015/10/31 04:39:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,4,239.96,6,2015/11/02 11:49:00
+2015/11/19 11:06:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,1,49.98,6,2015/11/21 20:33:00
+2015/12/09 01:58:00,Golf Gloves,Bag Boy Beverage Holder,24.99,5,124.95,3,2015/12/11 20:37:00
+2015/12/09 09:40:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2015/12/12 15:32:00
+2015/12/16 05:59:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,4,199.92,2,2015/12/16 16:55:00
+2015/12/23 11:24:00,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,4,200.0,6,2015/12/25 11:04:00
+2015/12/29 08:57:00,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,1,99.99,6,2016/01/04 14:19:00
+2015/12/31 02:38:00,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,25.0,3,75.0,6,2016/01/05 11:21:00
+2016/01/05 19:16:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,1,59.99,6,2016/01/10 15:23:00
+2016/01/12 07:31:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,1,59.99,6,2016/01/18 19:56:00
+2016/01/26 00:09:00,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,2,79.98,4,2016/01/30 10:06:00
+2016/02/07 03:38:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,4,239.96,6,2016/02/13 10:08:00
+2016/03/19 21:58:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,3,179.97,3,2016/03/21 14:10:00
+2016/03/24 01:07:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,3,2016/03/26 20:50:00
+2016/03/31 02:41:00,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,3,150.0,6,2016/04/04 15:49:00
+2016/04/05 14:25:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2016/04/10 11:51:00
+2016/04/28 18:25:00,Electronics,Titleist Pro V1 High Numbers Personalized Gol,51.99,4,207.96,6,2016/04/30 14:57:00
+2016/05/25 05:14:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,3,179.97,4,2016/05/29 10:47:00
+2016/06/26 05:53:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2016/06/29 10:38:00
+2016/06/27 22:11:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,2,2016/06/28 15:55:00
+2016/07/02 14:38:00,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,4,159.96,4,2016/07/06 16:37:00
+2016/08/09 09:41:00,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2016/08/12 10:56:00
+2016/08/11 13:32:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,3,179.97,4,2016/08/17 13:06:00
+2016/08/11 14:35:00,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,4,2016/08/15 18:31:00
+2016/08/19 14:55:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,3,2016/08/21 18:16:00
+2016/10/20 02:13:00,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,31.99,4,127.96,6,2016/10/24 13:12:00
+2016/10/22 02:34:00,Golf Gloves,Clicgear Rovic Cooler Bag,39.99,5,199.95,3,2016/10/24 13:07:00
+2016/10/22 19:02:00,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2016/10/26 19:51:00
+2016/11/16 03:04:00,Golf Gloves,Bag Boy Beverage Holder,24.99,2,49.98,4,2016/11/22 11:16:00
+2016/11/23 17:57:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,4,2016/11/26 19:22:00
+2016/11/28 02:42:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,2,99.96,4,2016/11/30 12:05:00
+2016/11/29 02:52:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,5,249.9,2,2016/11/29 09:27:00
+2016/12/16 18:26:00,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,1,50.0,6,2016/12/21 13:16:00
+2016/12/17 02:30:00,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,5,499.95,4,2016/12/20 18:03:00
+2016/12/26 09:19:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2016/12/30 17:46:00
+2016/12/26 15:58:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,2,2016/12/27 09:00:00
+2016/12/31 15:26:00,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2017/01/04 13:15:00
+2017/01/10 08:46:00,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,5,250.0,6,2017/01/15 09:10:00
+2017/02/10 23:58:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,4,2017/02/12 20:21:00
+2017/02/19 22:43:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,5,249.9,4,2017/02/24 09:13:00
+2017/02/20 19:24:00,Accessories,Team Golf San Francisco Giants Putter Grip,24.99,4,99.96,6,2017/02/24 12:42:00
+2017/02/25 02:03:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2017/02/27 20:48:00
+2017/02/25 09:45:00,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,3,119.97,6,2017/03/01 10:34:00
+2017/03/01 19:33:00,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,99.99,5,499.95,6,2017/03/07 12:46:00
+2017/03/07 07:17:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,2,119.98,4,2017/03/09 10:30:00
+2017/04/03 21:05:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2017/04/09 18:08:00
+2017/04/08 13:33:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,3,2017/04/10 09:42:00
+2017/04/18 22:39:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,6,2017/04/21 10:22:00
+2017/04/24 18:05:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2017/04/30 13:04:00
+2017/05/29 15:45:00,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,50.0,4,200.0,6,2017/05/31 16:16:00
+2017/06/03 00:09:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2017/06/08 12:31:00
+2017/06/06 15:24:00,Water Sports,Pelican Sunstream 100 Kayak,199.99,1,199.99,4,2017/06/10 17:38:00
+2017/06/15 21:31:00,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,3,119.97,3,2017/06/17 20:10:00
+2017/06/19 20:27:00,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,399.98,1,399.98,6,2017/06/23 17:46:00
+2017/06/20 17:28:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,6,2017/06/24 13:15:00
+2017/07/20 08:19:00,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,119.99,1,119.99,6,2017/07/23 09:36:00
+2017/07/20 10:26:00,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,49.98,5,249.9,3,2017/07/22 13:44:00
+2017/07/23 17:15:00,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,39.99,4,159.96,4,2017/07/27 11:34:00
+2017/08/01 03:45:00,Cleats,Perfect Fitness Perfect Rip Deck,59.99,1,59.99,6,2017/08/03 16:35:00
+2017/08/02 05:20:00,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,299.98,1,299.98,6,2017/08/07 10:27:00
+2017/09/13 21:23:00,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,129.99,1,129.99,2,2017/09/14 20:43:00
+2017/10/11 14:20:00,Cameras ,Web Camera,452.04,1,452.04,2,2017/10/12 20:48:00
+2017/10/19 15:23:00,Children's Clothing,Children's heaters,357.1,1,357.1,6,2017/10/21 14:16:00
+2018/01/01 04:04:00,Garden,Lawn mower,532.58,1,532.58,4,2018/01/05 16:39:00
+2018/01/18 15:47:00,Video Games,Fighting video games,39.75,1,39.75,6,2018/01/20 10:27:00

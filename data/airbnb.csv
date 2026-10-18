@@ -1,0 +1,714 @@
+id,state,guests,beds,property_type,rating,n_reviews,location,price
+BF1406,Illinois,2,1,Apartment,96.0,55,"Avondale, Chicago.",48
+DB7921,MASSACHUSETTS,4,1,Apartment,,0,"South End, Boston.",115
+OZ5857,ILLINOIS,4,3,Apartment,100.0,51,"Avondale, Chicago.",150
+HY8797,california,2,1,Apartment,75.0,4,"SoMa, San Francisco.",125
+VN7858,massachusetts,2,1,House,88.0,23,"West Roxbury, Boston.",64
+PP4626,California,2,1,Apartment,92.0,211,"Western Addition/NOPA, San Francisco.",129
+LN3479,California,2,2,Apartment,96.0,15,"East Hollywood, Los Angeles.",88
+JO6059,Massachusetts,2,2,Apartment,96.0,15,"Fenway/Kenmore, Boston.",158
+GU6250,CALIFORNIA,2,1,Apartment,100.0,1,"Mission District, San Francisco.",139
+QR1343,California,2,1,House,96.0,25,"Cahuenga Pass, Los Angeles.",125
+FU1529,CALIFORNIA,4,2,Apartment,80.0,3,"Mission District, San Francisco.",100
+CR6461,Illinois,4,2,Apartment,87.0,6,"South Loop/Printers Row, Chicago.",149
+YC3932,illinois,2,1,Apartment,100.0,6,"West Loop/Greektown, Chicago.",125
+HB7516,Illinois,1,1,Apartment,94.0,56,"Little Italy/UIC, Chicago.",14
+MY4058,massachusetts,2,1,Apartment,100.0,4,"South Boston, Boston.",199
+MP5849,MASSACHUSETTS,4,2,Dorm,91.0,15,"Allston-Brighton, Boston.",45
+ZE6530,California,8,4,Apartment,89.0,71,"Mid-Wilshire, Los Angeles.",190
+KS2506,california,6,4,Apartment,99.0,59,"Hollywood, Los Angeles.",192
+ZN5183,California,6,4,Loft,93.0,44,"Bel Air/Beverly Crest, Los Angeles.",149
+KE2237,MASSACHUSETTS,11,8,Apartment,100.0,2,"South Boston, Boston.",150
+BV5351,california,2,1,Apartment,98.0,16,"Silver Lake, Los Angeles.",100
+QP7214,california,3,1,Apartment,97.0,12,"Mid-Wilshire, Los Angeles.",133
+CO2790,california,6,3,Apartment,99.0,18,"Westchester/Playa Del Rey, Los Angeles.",194
+UH4994,CALIFORNIA,2,1,Apartment,100.0,2,"Manhattan Beach, Los Angeles.",119
+GW5946,California,2,1,Apartment,96.0,78,"West Hollywood, Los Angeles.",119
+PB4316,CALIFORNIA,6,3,Apartment,89.0,56,"Cow Hollow, San Francisco.",109
+GR2732,California,3,2,Apartment,94.0,16,"Marina Del Rey, Los Angeles.",139
+NB3754,illinois,3,2,Apartment,100.0,5,"Bucktown, Chicago.",110
+XD7723,Massachusetts,3,2,House,96.0,138,"Jamaica Plain, Boston.",144
+LI4710,Illinois,2,1,Apartment,95.0,27,"Logan Square, Chicago.",74
+PZ7489,california,3,1,Apartment,93.0,9,"Hollywood, Los Angeles.",100
+OD8936,california,1,1,House,97.0,163,"Del Rey, Los Angeles.",79
+TM8328,california,2,1,House,97.0,37,"Woodland Hills/Warner Center, Los Angeles.",59
+BT8735,CALIFORNIA,8,4,Apartment,92.0,75,"The Castro, San Francisco.",198
+LO1225,California,1,1,Apartment,99.0,57,"Monterey Hills, Los Angeles.",95
+RE2319,California,2,2,Boat,91.0,76,"Marina Del Rey, Los Angeles.",138
+XS1530,CALIFORNIA,4,2,House,80.0,2,"Inglewood, Los Angeles.",100
+BF2157,MASSACHUSETTS,2,1,Condominium,99.0,19,"South Boston, Boston.",108
+EK9422,Massachusetts,2,1,Apartment,99.0,19,"South Boston, Boston.",186
+II2045,Massachusetts,1,1,House,100.0,1,"Dorchester, Boston.",104
+LM7744,california,4,3,House,90.0,2,"Highland Park, Los Angeles.",190
+WK4519,MASSACHUSETTS,3,2,Condominium,91.0,7,"Charlestown, Boston.",149
+JD6514,Illinois,4,1,Apartment,100.0,6,"Lakeview, Chicago.",100
+IT4655,California,2,8,Hostel,91.0,27,"Westlake, Los Angeles.",14
+JE7685,Massachusetts,2,1,Apartment,93.0,11,"Allston-Brighton, Boston.",81
+EJ4370,CALIFORNIA,4,3,Apartment,96.0,56,"Gardena, Los Angeles.",100
+BK9521,California,1,1,Apartment,100.0,1,"SoMa, San Francisco.",100
+HV4772,Illinois,2,1,Apartment,97.0,46,"Boystown, Chicago.",51
+TX1098,california,4,2,House,100.0,3,"Boyle Heights, Los Angeles.",109
+OO8811,Massachusetts,3,1,Condominium,90.0,28,"South Boston, Boston.",199
+AD3737,California,3,1,Apartment,100.0,1,"West Los Angeles, Los Angeles.",76
+CM1969,california,4,1,Bungalow,100.0,8,"Cahuenga Pass, Los Angeles.",149
+RE1634,Massachusetts,6,3,Apartment,100.0,18,"Beacon Hill, Boston.",175
+HI6080,Massachusetts,2,1,Apartment,95.0,14,"South End, Boston.",125
+WW9801,california,2,1,Condominium,95.0,4,"Haight-Ashbury, San Francisco.",108
+ZD8903,massachusetts,2,1,Townhouse,98.0,58,"South End, Boston.",150
+XN5680,California,2,1,House,100.0,13,"Pacific Palisades, Los Angeles.",100
+MS9589,CALIFORNIA,2,1,Apartment,100.0,1,"Highland Park, Los Angeles.",55
+MN6641,Massachusetts,1,1,House,97.0,32,"Allston-Brighton, Boston.",64
+XQ3633,California,2,1,Apartment,93.0,65,"Silver Lake, Los Angeles.",119
+EN3555,California,3,1,Apartment,95.0,159,"Hollywood, Los Angeles.",125
+VL1835,California,4,2,Apartment,86.0,36,"South LA, Los Angeles.",85
+EO5829,Massachusetts,3,1,Apartment,97.0,55,"Theater District, Boston.",102
+BM7841,Illinois,2,1,Apartment,99.0,84,"Wicker Park, Chicago.",125
+MW5232,California,1,1,Apartment,100.0,2,"Torrance, Los Angeles.",128
+ZX5129,california,2,1,Condominium,98.0,8,"Twin Peaks, San Francisco.",104
+GI1412,MASSACHUSETTS,2,1,Apartment,100.0,1,"Jamaica Plain, Boston.",100
+AV5165,california,2,1,House,92.0,18,"West Hills, Los Angeles.",54
+PR8803,Illinois,6,3,Condominium,95.0,43,"South Loop/Printers Row, Chicago.",158
+EE3023,illinois,2,1,Apartment,100.0,15,"South Loop/Printers Row, Chicago.",119
+DJ5169,california,2,1,Apartment,97.0,96,"Santa Monica, Los Angeles.",79
+EL2829,Illinois,2,1,Apartment,92.0,5,"Lakeview, Chicago.",125
+HN9958,massachusetts,1,1,Apartment,100.0,3,"East Boston, Boston.",74
+YH5432,california,5,4,Apartment,95.0,136,"Westlake, Los Angeles.",149
+PK7377,california,3,1,Apartment,94.0,32,"Mid-Wilshire, Los Angeles.",111
+HD7298,Illinois,2,1,Apartment,94.0,72,"Avondale, Chicago.",59
+ZG9806,ILLINOIS,4,2,Apartment,99.0,57,"Bucktown, Chicago.",150
+XU7723,Illinois,7,4,Apartment,99.0,22,"Ukrainian Village, Chicago.",179
+LQ3804,Illinois,4,3,Apartment,96.0,47,"Bronzeville, Chicago.",110
+DN1649,California,5,2,Apartment,100.0,4,"Lakeshore, San Francisco.",199
+GB7783,California,2,1,Apartment,96.0,103,"West Hollywood, Los Angeles.",100
+KQ8906,california,2,1,Apartment,95.0,40,"Nob Hill, San Francisco.",119
+ZN9465,CALIFORNIA,1,1,Apartment,99.0,54,"Venice, Los Angeles.",101
+TM5494,California,2,1,Apartment,92.0,102,"Haight-Ashbury, San Francisco.",169
+PM6836,Illinois,1,1,Hostel,80.0,2,"River North, Chicago.",59
+MS3857,CALIFORNIA,4,1,Boutique hotel,97.0,13,"Western Addition/NOPA, San Francisco.",150
+UE6349,california,2,1,Bungalow,99.0,29,"Cahuenga Pass, Los Angeles.",88
+YH6654,CALIFORNIA,1,1,House,91.0,13,"Bayview, San Francisco.",59
+GB3993,Massachusetts,3,1,Condominium,98.0,13,"Charlestown, Boston.",193
+MG6193,massachusetts,2,1,Apartment,87.0,3,"Roxbury, Boston.",104
+AN3249,MASSACHUSETTS,2,1,Apartment,97.0,143,"Beacon Hill, Boston.",160
+FG7538,California,6,3,House,100.0,6,"Marina, San Francisco.",1800
+SN8144,illinois,2,2,House,100.0,21,"Lakeview, Chicago.",95
+KS3356,Massachusetts,2,1,Apartment,92.0,28,"South End, Boston.",128
+VU7574,ILLINOIS,2,1,Apartment,100.0,3,"Woodlawn, Chicago.",110
+HY1891,california,2,1,House,100.0,1,"Mar Vista, Los Angeles.",119
+CJ7504,california,2,1,House,90.0,31,"Venice, Los Angeles.",100
+FL9236,Massachusetts,2,1,Townhouse,98.0,11,"South Boston, Boston.",129
+OB3204,california,4,2,Apartment,98.0,19,"Hollywood, Los Angeles.",125
+NN7434,massachusetts,3,1,Apartment,98.0,37,"East Boston, Boston.",139
+TT2718,California,4,2,Bungalow,91.0,8,"Santa Monica, Los Angeles.",139
+GH2308,California,1,1,Guesthouse,90.0,18,"Excelsior, San Francisco.",139
+LI9023,California,2,1,Bungalow,98.0,9,"Mar Vista, Los Angeles.",125
+DG3042,Massachusetts,4,2,House,100.0,11,"Dorchester, Boston.",62
+IR7191,california,2,1,Apartment,98.0,9,"Hollywood, Los Angeles.",74
+JF4280,California,4,2,Apartment,96.0,6,"Western Addition/NOPA, San Francisco.",198
+SE5568,Massachusetts,7,3,Apartment,96.0,92,"South End, Boston.",199
+EA9738,ILLINOIS,2,1,House,100.0,13,"Albany Park, Chicago.",55
+PE3784,California,3,1,Apartment,98.0,12,"Westside, Los Angeles.",76
+OV1112,ILLINOIS,4,2,House,100.0,1,"South Shore, Chicago.",88
+TR4377,MASSACHUSETTS,2,1,Apartment,80.0,1,"North End, Boston.",160
+XM5115,Illinois,1,1,Apartment,40.0,3,"Rogers Park, Chicago.",59
+QF6008,Massachusetts,3,1,Apartment,92.0,5,"South End, Boston.",160
+TY9617,CALIFORNIA,2,1,Apartment,93.0,20,"Mar Vista, Los Angeles.",125
+KB6304,Massachusetts,2,1,House,90.0,133,"South End, Boston.",144
+UY6011,Massachusetts,4,3,Condominium,94.0,17,"Hyde Park, Boston.",122
+WU4209,Illinois,14,1,House,92.0,10,"Logan Square, Chicago.",55
+MZ1922,ILLINOIS,4,2,Apartment,93.0,31,"Near North Side, Chicago.",175
+SG1703,Massachusetts,2,1,Apartment,100.0,1,"North End, Boston.",175
+PB4847,California,5,2,Apartment,98.0,42,"Venice, Los Angeles.",198
+ZL2408,Illinois,2,1,Apartment,93.0,391,"Lakeview, Chicago.",98
+TZ4276,california,2,1,Apartment,100.0,3,"Echo Park, Los Angeles.",110
+DQ8676,California,2,1,House,100.0,75,"Bernal Heights, San Francisco.",119
+AC6468,Massachusetts,5,2,Apartment,91.0,36,"Back Bay, Boston.",100
+XR4748,Illinois,4,2,Apartment,95.0,8,"Loop, Chicago.",139
+DY4961,California,6,3,Apartment,93.0,38,"West Hollywood, Los Angeles.",159
+CF8725,MASSACHUSETTS,2,1,Apartment,98.0,12,"East Boston, Boston.",74
+MB7199,Illinois,2,1,Apartment,,0,"Rogers Park, Chicago.",74
+LX2401,massachusetts,6,3,Condominium,95.0,4,"South Boston, Boston.",144
+QL4135,Illinois,2,1,House,95.0,110,"Old Town, Chicago.",92
+EB7367,ILLINOIS,4,2,Apartment,95.0,15,"Lakeview, Chicago.",125
+LR4590,Massachusetts,5,2,Apartment,87.0,3,"Fenway/Kenmore, Boston.",179
+GJ4660,California,2,1,Apartment,98.0,280,"Outer Sunset, San Francisco.",155
+NC6876,Massachusetts,8,6,Apartment,100.0,3,"Dorchester, Boston.",199
+XE4176,CALIFORNIA,1,1,Apartment,97.0,6,"Hollywood Hills, Los Angeles.",100
+RZ1708,ILLINOIS,4,3,Apartment,100.0,1,"Logan Square, Chicago.",199
+EK3067,illinois,6,3,Apartment,93.0,67,"Humboldt Park, Chicago.",70
+HS7387,Illinois,4,2,Apartment,93.0,3,"Logan Square, Chicago.",100
+RI9220,massachusetts,2,1,Apartment,97.0,65,"Beacon Hill, Boston.",139
+LT7851,CALIFORNIA,4,1,Apartment,97.0,13,"Westlake, Los Angeles.",125
+AF2380,California,1,1,House,98.0,31,"Mission Terrace, San Francisco.",79
+LD1958,massachusetts,4,2,Apartment,87.0,6,"Fenway/Kenmore, Boston.",100
+CZ2702,MASSACHUSETTS,4,2,Apartment,97.0,37,"East Boston, Boston.",139
+LL9110,massachusetts,2,1,Apartment,90.0,2,"Allston-Brighton, Boston.",52
+DJ8141,ILLINOIS,4,1,Apartment,94.0,14,"South Loop/Printers Row, Chicago.",125
+IN3401,ILLINOIS,3,2,Apartment,88.0,65,"Near North Side, Chicago.",115
+PF1833,California,2,1,Apartment,94.0,36,"Long Beach, Los Angeles.",95
+PV2184,illinois,6,4,Apartment,89.0,61,"Wicker Park, Chicago.",119
+II7665,MASSACHUSETTS,6,3,Apartment,97.0,192,"South Boston, Boston.",199
+MV2473,Illinois,2,1,Condominium,100.0,7,"Boystown, Chicago.",125
+ZI2777,massachusetts,3,2,House,97.0,78,"Allston-Brighton, Boston.",104
+CU5639,illinois,2,1,House,97.0,96,"North Center, Chicago.",100
+IX6101,Illinois,4,2,Apartment,100.0,5,"Near North Side, Chicago.",150
+SE4058,California,5,2,Apartment,96.0,25,"Del Rey, Los Angeles.",144
+UA9650,ILLINOIS,2,1,House,99.0,23,"Woodlawn, Chicago.",45
+XM5456,illinois,6,3,Apartment,99.0,31,"Andersonville, Chicago.",150
+PW6513,CALIFORNIA,2,1,Apartment,98.0,39,"Cole Valley, San Francisco.",129
+VQ2138,Massachusetts,5,3,Apartment,60.0,5,"North End, Boston.",137
+WT1200,Illinois,5,2,Apartment,95.0,53,"Logan Square, Chicago.",129
+YB4677,MASSACHUSETTS,5,3,Apartment,92.0,8,"North End, Boston.",146
+ND6442,California,2,1,Apartment,92.0,12,"Hollywood, Los Angeles.",95
+RK6522,MASSACHUSETTS,5,2,Apartment,95.0,11,"Dorchester, Boston.",103
+UH2394,ILLINOIS,3,1,Apartment,94.0,89,"Gold Coast, Chicago.",104
+VA3751,california,2,1,Apartment,99.0,19,"Western Addition/NOPA, San Francisco.",119
+BT6049,illinois,8,4,Other,96.0,45,"Bronzeville, Chicago.",89
+SJ1414,california,2,1,Condominium,80.0,1,"West Los Angeles, Los Angeles.",104
+BO4490,illinois,2,1,House,96.0,14,"South Shore, Chicago.",109
+XT1739,California,2,1,House,94.0,117,"Mar Vista, Los Angeles.",72
+VM6192,ILLINOIS,2,1,Condominium,91.0,9,"Uptown, Chicago.",54
+MP6290,california,7,4,House,97.0,42,"Mid-Wilshire, Los Angeles.",195
+DA5856,Massachusetts,2,1,Apartment,97.0,15,"Back Bay, Boston.",114
+HZ7759,Massachusetts,4,1,Bed & Breakfast,85.0,188,"Roxbury, Boston.",62
+SG6357,Illinois,5,3,Apartment,94.0,73,"Pilsen, Chicago.",104
+UT6002,massachusetts,4,2,Apartment,85.0,8,"Downtown Crossing, Boston.",128
+MI1608,Massachusetts,2,1,House,97.0,7,"Allston-Brighton, Boston.",119
+DJ9326,ILLINOIS,6,3,Apartment,97.0,29,"Bridgeport, Chicago.",129
+BC7046,California,6,2,House,93.0,14,"South LA, Los Angeles.",139
+SE1913,California,2,1,House,94.0,66,"Mid-Wilshire, Los Angeles.",65
+CS2644,MASSACHUSETTS,5,3,Apartment,100.0,2,"South Boston, Boston.",100
+RW6893,Illinois,2,1,Townhouse,100.0,1,"Wicker Park, Chicago.",125
+ND1442,California,4,2,Apartment,100.0,5,"Studio City, Los Angeles.",184
+RE8107,CALIFORNIA,2,1,Condominium,93.0,9,"Downtown, Los Angeles.",119
+RX9149,CALIFORNIA,2,1,Apartment,96.0,16,"Westwood, Los Angeles.",115
+IM4423,California,2,1,Condominium,97.0,24,"Mission District, San Francisco.",164
+HH9732,California,4,2,Loft,95.0,22,"Long Beach, Los Angeles.",100
+TY3477,california,2,1,Apartment,80.0,3,"Mid-Wilshire, Los Angeles.",69
+RT6472,Illinois,6,2,Loft,100.0,12,"Bronzeville, Chicago.",144
+KS3394,ILLINOIS,6,3,Apartment,89.0,8,"Bridgeport, Chicago.",139
+MT6046,California,6,2,Apartment,92.0,29,"Inglewood, Los Angeles.",128
+DE6323,illinois,2,1,Condominium,,0,"South Loop/Printers Row, Chicago.",79
+PZ8424,illinois,2,1,Apartment,98.0,19,"Printers Row, Chicago.",160
+NE7428,Illinois,2,1,Townhouse,98.0,25,"Logan Square, Chicago.",104
+ML1479,Massachusetts,2,1,Apartment,84.0,16,"South End, Boston.",144
+VN6904,CALIFORNIA,2,1,House,84.0,14,"Glendale, Los Angeles.",98
+DS2247,Illinois,2,1,Townhouse,88.0,8,"Kenwood, Chicago.",69
+PT7502,California,2,1,Apartment,90.0,69,"West Hollywood, Los Angeles.",139
+HB5515,ILLINOIS,3,2,House,90.0,19,"Humboldt Park, Chicago.",59
+JB3386,ILLINOIS,4,2,Apartment,99.0,19,"Humboldt Park, Chicago.",128
+UH6944,CALIFORNIA,2,1,Apartment,90.0,119,"Cow Hollow, San Francisco.",108
+JS7518,california,2,1,House,97.0,13,"Burbank, Los Angeles.",46
+CJ2022,CALIFORNIA,3,2,Condominium,100.0,59,"Westwood, Los Angeles.",169
+UD8253,MASSACHUSETTS,3,1,Apartment,100.0,1,"Fenway/Kenmore, Boston.",124
+QO2932,california,2,1,House,96.0,39,"Echo Park, Los Angeles.",125
+VJ4273,Illinois,4,2,Apartment,100.0,79,"South Loop/Printers Row, Chicago.",110
+BP2305,california,2,1,Apartment,100.0,1,"Altadena, Los Angeles.",150
+SG3664,California,2,1,Condominium,95.0,5,"Long Beach, Los Angeles.",100
+ME5527,ILLINOIS,2,1,House,,0,"Garfield Park, Chicago.",52
+CB6890,California,4,2,Apartment,100.0,2,"Venice, Los Angeles.",119
+PL4100,California,4,1,Apartment,95.0,4,"Venice, Los Angeles.",129
+CV1763,California,2,1,Apartment,90.0,3,"Pasadena, Los Angeles.",110
+SE5137,MASSACHUSETTS,2,1,Apartment,98.0,26,"Downtown Crossing, Boston.",119
+MG7647,Massachusetts,2,1,Condominium,100.0,1,"Beacon Hill, Boston.",139
+DJ5793,california,2,1,House,99.0,173,"Potrero Hill, San Francisco.",133
+VT8773,California,1,1,Apartment,87.0,3,"Brentwood, Los Angeles.",48
+LR8902,massachusetts,2,1,Apartment,87.0,3,"Back Bay, Boston.",103
+ZK9223,Massachusetts,3,1,Apartment,87.0,3,"Jamaica Plain, Boston.",119
+JL2317,CALIFORNIA,2,1,Apartment,100.0,3,"Echo Park, Los Angeles.",100
+DN8721,massachusetts,4,1,Apartment,60.0,1,"West End, Boston.",198
+UI9238,California,3,2,Apartment,85.0,208,"Hollywood, Los Angeles.",128
+WK1781,MASSACHUSETTS,4,2,Condominium,100.0,4,"Dorchester, Boston.",110
+EQ6390,illinois,2,2,Townhouse,97.0,48,"Bucktown, Chicago.",125
+HM2399,California,2,1,Apartment,94.0,16,"Venice, Los Angeles.",98
+CV7210,Massachusetts,4,2,Apartment,100.0,2,"Allston-Brighton, Boston.",119
+FJ2698,california,3,2,House,94.0,183,"Venice, Los Angeles.",98
+GF1215,Massachusetts,2,2,House,100.0,1,"Dorchester, Boston.",150
+JF3950,Illinois,3,1,House,96.0,23,"Old Town, Chicago.",100
+RZ4327,CALIFORNIA,6,3,House,98.0,84,"South Pasadena, Los Angeles.",149
+QN4696,ILLINOIS,2,1,House,100.0,3,"Uptown, Chicago.",59
+IV4223,Illinois,2,1,Apartment,91.0,19,"Pilsen, Chicago.",45
+OM2994,Massachusetts,2,1,Townhouse,99.0,55,"South End, Boston.",160
+ZW1503,california,4,2,Apartment,86.0,209,"Hollywood, Los Angeles.",149
+HA6843,California,4,2,Apartment,97.0,64,"Hollywood, Los Angeles.",119
+VB5165,California,2,1,Apartment,97.0,36,"Silver Lake, Los Angeles.",129
+GP6325,massachusetts,4,2,Apartment,100.0,2,"Allston-Brighton, Boston.",110
+MK5242,Illinois,9,1,Apartment,100.0,6,"Lakeview, Chicago.",169
+OL6123,California,3,2,Townhouse,96.0,10,"San Pedro, Los Angeles.",44
+JN7997,Illinois,3,1,Condominium,100.0,4,"Lincoln Park, Chicago.",68
+PI9997,illinois,2,1,Condominium,100.0,1,"Uptown, Chicago.",125
+AH2023,California,2,1,Condominium,95.0,49,"Balboa Terrace, San Francisco.",79
+JM9781,CALIFORNIA,4,2,House,98.0,12,"Bernal Heights, San Francisco.",175
+HH9751,CALIFORNIA,3,2,Apartment,100.0,1,"West Los Angeles, Los Angeles.",175
+IM7986,Massachusetts,5,2,Apartment,80.0,2,"Fenway/Kenmore, Boston.",189
+AE1047,ILLINOIS,4,2,Apartment,100.0,5,"Lakeview, Chicago.",98
+JF5055,massachusetts,8,3,Apartment,89.0,64,"Back Bay, Boston.",160
+EE9152,California,2,1,Apartment,92.0,6,"Mission District, San Francisco.",115
+TF1806,Massachusetts,2,1,Apartment,100.0,3,"Downtown Crossing, Boston.",146
+GV6381,California,2,1,House,100.0,1,"Mission District, San Francisco.",69
+FQ4571,California,2,1,Apartment,100.0,1,"Richmond District, San Francisco.",100
+XX1793,massachusetts,4,2,Apartment,96.0,8,"Roxbury, Boston.",166
+OS7637,California,4,1,House,84.0,36,"Outer Sunset, San Francisco.",115
+MM9566,Massachusetts,2,2,Bed & Breakfast,99.0,35,"Dorchester, Boston.",100
+IT3003,California,3,2,Dorm,85.0,86,"Bayview, San Francisco.",68
+HI2403,illinois,4,1,Apartment,100.0,1,"Loop, Chicago.",102
+LL1468,California,1,1,Condominium,97.0,70,"Santa Monica, Los Angeles.",68
+TR7503,CALIFORNIA,5,2,Guesthouse,100.0,1,"Burbank, Los Angeles.",135
+QU8730,california,2,1,House,98.0,12,"Echo Park, Los Angeles.",89
+UH5900,Massachusetts,4,2,Apartment,67.0,3,"Theater District, Boston.",139
+SI6519,California,2,2,Apartment,100.0,1,"Nob Hill, San Francisco.",150
+GV1676,california,2,1,Apartment,98.0,36,"Richmond District, San Francisco.",111
+IJ8406,Illinois,6,3,Apartment,93.0,3,"Woodlawn, Chicago.",125
+AW2349,CALIFORNIA,3,1,Guesthouse,100.0,1,"Mid-Wilshire, Los Angeles.",110
+WH3728,MASSACHUSETTS,2,1,Apartment,100.0,6,"Mission Hill, Boston.",70
+QT5901,California,3,1,Apartment,91.0,14,"Silver Lake, Los Angeles.",149
+LI1696,CALIFORNIA,4,1,House,91.0,7,"Glendale, Los Angeles.",88
+JM6756,Massachusetts,4,2,Apartment,92.0,7,"South Boston, Boston.",110
+KD9502,illinois,7,4,Apartment,95.0,15,"Ukrainian Village, Chicago.",199
+ZO3261,MASSACHUSETTS,3,1,Apartment,100.0,1,"Mission Hill, Boston.",126
+EK1141,MASSACHUSETTS,2,1,Apartment,99.0,38,"South End, Boston.",146
+OY4425,CALIFORNIA,2,1,Apartment,100.0,1,"Mid-Wilshire, Los Angeles.",100
+ML9227,MASSACHUSETTS,2,1,Condominium,96.0,40,"South Boston, Boston.",108
+JK5659,CALIFORNIA,9,4,House,97.0,84,"Glendale, Los Angeles.",159
+RY3631,MASSACHUSETTS,2,1,Apartment,88.0,48,"Back Bay, Boston.",128
+RM9271,illinois,2,1,Apartment,,0,"Lincoln Park, Chicago.",64
+QO8555,California,7,4,House,85.0,3,"Excelsior, San Francisco.",199
+EO2198,ILLINOIS,2,1,Apartment,99.0,4,"South Loop/Printers Row, Chicago.",115
+TA9777,California,2,1,Condominium,,0,"Pacific Heights, San Francisco.",115
+CR8023,California,6,3,Apartment,95.0,31,"Hollywood, Los Angeles.",122
+CP5861,Massachusetts,2,1,Apartment,99.0,22,"Jamaica Plain, Boston.",132
+FK9919,California,2,1,Apartment,100.0,7,"Marina, San Francisco.",115
+RP1043,California,2,1,Apartment,94.0,67,"Hollywood, Los Angeles.",79
+GX4621,california,2,1,Apartment,100.0,1,"Venice, Los Angeles.",100
+CP8501,CALIFORNIA,3,3,Apartment,98.0,120,"Downtown, Los Angeles.",133
+TM7390,california,4,3,Apartment,91.0,110,"Venice, Los Angeles.",175
+CR4604,illinois,2,1,Apartment,86.0,24,"Uptown, Chicago.",71
+DU8140,Massachusetts,2,1,Apartment,100.0,5,"Allston-Brighton, Boston.",89
+BJ1202,massachusetts,2,1,Apartment,95.0,34,"Beacon Hill, Boston.",188
+RO9410,MASSACHUSETTS,4,2,House,97.0,83,"West Roxbury, Boston.",70
+GW1560,california,1,1,Apartment,95.0,4,"Sherman Oaks, Los Angeles.",62
+DY9599,CALIFORNIA,4,4,House,96.0,11,"Mount Washington, Los Angeles.",156
+FC3287,california,2,1,Apartment,96.0,54,"Mount Washington, Los Angeles.",88
+SK9468,California,8,2,Apartment,92.0,24,"Glendale, Los Angeles.",198
+KW6361,Illinois,2,1,Apartment,100.0,6,"Hyde Park, Chicago.",110
+YX4772,CALIFORNIA,4,2,Apartment,95.0,8,"Long Beach, Los Angeles.",98
+ZE9015,California,4,2,Apartment,86.0,8,"Sherman Oaks, Los Angeles.",128
+NN9839,California,2,1,House,97.0,168,"Noe Valley, San Francisco.",102
+PC8454,Massachusetts,3,1,Apartment,100.0,1,"Chinatown, Boston.",139
+YR2785,California,1,1,House,95.0,64,"Sunnyside, San Francisco.",59
+WI3157,CALIFORNIA,2,1,Apartment,99.0,20,"Mid-Wilshire, Los Angeles.",59
+GM8134,CALIFORNIA,2,1,Apartment,94.0,50,"Richmond District, San Francisco.",127
+JX5744,MASSACHUSETTS,3,3,Apartment,100.0,1,"Mattapan, Boston.",119
+EP9104,Massachusetts,2,1,Apartment,80.0,1,"South End, Boston.",199
+ND9862,Massachusetts,2,1,Apartment,90.0,156,"East Boston, Boston.",79
+RS3911,ILLINOIS,2,1,Loft,92.0,34,"Wicker Park, Chicago.",50
+UP4930,california,1,1,House,92.0,20,"Granada Hills North, Los Angeles.",110
+QM3188,california,2,1,House,97.0,115,"Bayview, San Francisco.",144
+HW7185,California,4,1,Yurt,97.0,60,"Topanga, Los Angeles.",100
+WL7882,MASSACHUSETTS,2,1,Apartment,97.0,8,"Beacon Hill, Boston.",100
+EI7807,California,2,1,Apartment,100.0,3,"Atwater Village, Los Angeles.",110
+CG3641,CALIFORNIA,3,1,Apartment,93.0,6,"Lower Haight, San Francisco.",136
+KS9652,MASSACHUSETTS,2,1,Apartment,91.0,7,"Dorchester, Boston.",139
+EV6409,Massachusetts,4,2,Apartment,87.0,23,"Downtown Crossing, Boston.",119
+YG1645,California,2,1,House,95.0,99,"Bernal Heights, San Francisco.",102
+JR8380,Massachusetts,2,1,Apartment,95.0,54,"Fenway/Kenmore, Boston.",139
+HD3172,MASSACHUSETTS,6,3,Condominium,84.0,113,"South Boston, Boston.",98
+WP4629,california,2,1,Apartment,100.0,5,"Mission District, San Francisco.",59
+EB8977,massachusetts,2,1,Other,95.0,9,"Dorchester, Boston.",79
+ZZ3541,CALIFORNIA,2,1,House,100.0,10,"Hollywood Hills, Los Angeles.",110
+SS7185,Illinois,5,4,House,100.0,13,"Logan Square, Chicago.",199
+BO4312,Illinois,6,3,House,98.0,13,"Avondale, Chicago.",115
+TM9496,California,2,1,House,100.0,1,"Manhattan Beach, Los Angeles.",85
+DL1617,Massachusetts,2,1,Apartment,98.0,8,"South End, Boston.",199
+YB4133,California,2,1,Apartment,94.0,73,"Mid-Wilshire, Los Angeles.",119
+TK4547,California,2,1,Apartment,100.0,1,"South Robertson, Los Angeles.",128
+CA9876,ILLINOIS,2,1,Townhouse,99.0,16,"Lincoln Park, Chicago.",50
+RN9040,Massachusetts,6,3,Apartment,92.0,19,"Allston-Brighton, Boston.",128
+XH5916,ILLINOIS,4,3,Apartment,96.0,15,"Old Town, Chicago.",110
+AI9144,illinois,3,1,Condominium,94.0,18,"Wicker Park, Chicago.",79
+PB8364,Illinois,4,2,Apartment,94.0,27,"Avondale, Chicago.",128
+VZ4708,ILLINOIS,5,2,Apartment,97.0,15,"Uptown, Chicago.",98
+JX9493,Illinois,5,3,Apartment,96.0,62,"Wrigleyville, Chicago.",117
+IE3686,CALIFORNIA,4,1,House,94.0,91,"West Hollywood, Los Angeles.",115
+OM9750,Massachusetts,2,1,Condominium,97.0,24,"Jamaica Plain, Boston.",125
+SF2670,Massachusetts,2,2,Apartment,100.0,17,"Charlestown, Boston.",129
+HI1188,massachusetts,1,1,Apartment,100.0,1,"East Boston, Boston.",44
+FU7444,California,5,3,Apartment,100.0,27,"West Hollywood, Los Angeles.",142
+IK7247,California,3,1,Apartment,100.0,7,"North Hollywood, Los Angeles.",74
+MA6134,Massachusetts,2,1,Condominium,100.0,4,"Beacon Hill, Boston.",129
+FD4623,MASSACHUSETTS,4,2,Apartment,100.0,2,"Roxbury, Boston.",150
+CK7306,MASSACHUSETTS,2,1,Townhouse,100.0,5,"Jamaica Plain, Boston.",50
+CT6532,CALIFORNIA,2,1,Apartment,93.0,85,"Downtown, Los Angeles.",98
+FD6339,California,1,1,Apartment,100.0,1,"South LA, Los Angeles.",50
+FJ4933,Massachusetts,1,1,Apartment,96.0,16,"South End, Boston.",88
+NG8460,California,4,2,Apartment,97.0,12,"Westchester/Playa Del Rey, Los Angeles.",100
+WI3419,california,5,2,Apartment,96.0,35,"Marina Del Rey, Los Angeles.",156
+AJ2843,CALIFORNIA,2,2,House,98.0,106,"Hollywood, Los Angeles.",104
+FF5694,massachusetts,2,1,Apartment,99.0,95,"South End, Boston.",133
+YE9806,California,4,3,Apartment,98.0,16,"Culver City, Los Angeles.",142
+DS3567,Massachusetts,2,1,Apartment,96.0,6,"Beacon Hill, Boston.",139
+EK7925,Massachusetts,6,4,Apartment,95.0,25,"Allston-Brighton, Boston.",129
+AT1142,CALIFORNIA,2,1,Apartment,100.0,1,"Toluca Lake, Los Angeles.",150
+FN9174,massachusetts,2,1,House,80.0,1,"Jamaica Plain, Boston.",135
+GN3830,illinois,2,1,Apartment,96.0,55,"River North, Chicago.",149
+OZ8477,California,2,1,House,92.0,62,"Mar Vista, Los Angeles.",100
+XA7732,Illinois,6,3,Apartment,93.0,14,"Norwood Park, Chicago.",74
+OX2048,illinois,7,2,Townhouse,100.0,2,"Oakland, Chicago.",129
+DR4298,Massachusetts,4,2,Apartment,89.0,90,"Roxbury, Boston.",166
+NH9166,California,6,4,Apartment,97.0,135,"Mount Washington, Los Angeles.",115
+PJ6577,massachusetts,2,1,Apartment,94.0,7,"South Boston, Boston.",175
+QG6830,massachusetts,4,2,Apartment,80.0,2,"Theater District, Boston.",109
+ZT2269,massachusetts,4,2,Apartment,94.0,55,"Back Bay, Boston.",119
+TY9267,Massachusetts,6,3,House,93.0,21,"Roslindale, Boston.",104
+AU1265,CALIFORNIA,2,1,Apartment,93.0,3,"Hollywood Hills, Los Angeles.",79
+BG5317,Massachusetts,2,1,Apartment,92.0,11,"South End, Boston.",150
+RI3418,Massachusetts,5,2,Apartment,100.0,1,"Chinatown, Boston.",179
+HB9667,massachusetts,2,1,Bed & Breakfast,95.0,12,"Jamaica Plain, Boston.",70
+RQ4366,california,2,1,Loft,93.0,30,"Mission District, San Francisco.",146
+LP6045,ILLINOIS,2,1,Apartment,,0,"Loop, Chicago.",115
+AH3876,MASSACHUSETTS,1,1,Apartment,88.0,18,"Dorchester, Boston.",79
+HH1056,ILLINOIS,2,2,Loft,87.0,6,"Loop, Chicago.",125
+ET3593,California,2,1,Apartment,100.0,1,"Silver Lake, Los Angeles.",144
+IW3658,ILLINOIS,2,1,Apartment,96.0,95,"Logan Square, Chicago.",85
+BG4878,Massachusetts,2,2,Apartment,94.0,28,"Dorchester, Boston.",55
+ZP8116,massachusetts,3,2,Apartment,95.0,79,"Back Bay, Boston.",169
+KS6741,California,2,1,Apartment,94.0,69,"Mission District, San Francisco.",104
+HN4426,California,2,1,House,100.0,5,"Outer Sunset, San Francisco.",119
+YD3671,California,2,1,Apartment,90.0,2,"Mission District, San Francisco.",59
+SO6823,CALIFORNIA,6,3,Apartment,97.0,21,"Hollywood, Los Angeles.",133
+FK3103,Illinois,4,2,Apartment,90.0,2,"Lakeview, Chicago.",106
+XD4513,CALIFORNIA,4,3,House,97.0,54,"Hollywood Hills, Los Angeles.",106
+LH7436,california,2,1,Guesthouse,97.0,145,"Long Beach, Los Angeles.",124
+CE8316,Illinois,4,2,Apartment,97.0,21,"Logan Square, Chicago.",100
+GX4786,California,2,1,House,99.0,33,"South LA, Los Angeles.",59
+YL5932,CALIFORNIA,6,3,House,98.0,19,"Monrovia, Los Angeles.",154
+GW8309,illinois,2,1,House,99.0,40,"Lincoln Square, Chicago.",102
+VH5680,Illinois,6,4,Apartment,97.0,17,"West Ridge, Chicago.",71
+LJ1820,CALIFORNIA,4,2,House,100.0,1,"Reseda, Los Angeles.",74
+QX3144,California,2,1,House,97.0,66,"Los Feliz, Los Angeles.",150
+XB4942,California,4,2,House,88.0,5,"Eagle Rock, Los Angeles.",74
+HW9138,ILLINOIS,4,2,Apartment,99.0,78,"Lincoln Square, Chicago.",179
+PN7000,California,1,1,Apartment,90.0,9,"Hollywood, Los Angeles.",119
+UM8992,Massachusetts,2,1,House,60.0,2,"West Roxbury, Boston.",69
+QE6578,California,5,3,House,98.0,69,"Mid-Wilshire, Los Angeles.",85
+QQ4639,california,4,1,Apartment,92.0,5,"Westside, Los Angeles.",97
+DK4026,Illinois,4,1,Apartment,94.0,7,"Bucktown, Chicago.",139
+PM8220,California,2,1,Apartment,97.0,54,"Manhattan Beach, Los Angeles.",87
+QB8397,California,2,1,Bungalow,100.0,56,"Mid-Wilshire, Los Angeles.",100
+SN2126,illinois,5,3,Apartment,90.0,37,"Uptown, Chicago.",152
+FX4972,california,4,2,Apartment,96.0,43,"Pasadena, Los Angeles.",125
+FG2345,california,2,1,Apartment,95.0,62,"Mid-Wilshire, Los Angeles.",64
+BN1735,Massachusetts,5,2,Apartment,96.0,21,"Hyde Park, Boston.",129
+XC8756,Massachusetts,5,3,Apartment,91.0,20,"Allston-Brighton, Boston.",190
+ER8369,ILLINOIS,3,1,Apartment,93.0,15,"Wicker Park, Chicago.",104
+NY4655,california,3,2,Bed & Breakfast,80.0,3,"Glendale, Los Angeles.",100
+XO3802,california,2,1,Apartment,98.0,12,"Westlake, Los Angeles.",121
+KT8446,Illinois,5,2,House,92.0,80,"Logan Square, Chicago.",85
+DG2424,California,4,2,Condominium,90.0,4,"Long Beach, Los Angeles.",115
+PV1113,Illinois,2,1,Apartment,95.0,53,"Logan Square, Chicago.",64
+EA3168,CALIFORNIA,6,4,Apartment,72.0,10,"East Hollywood, Los Angeles.",139
+CA1963,massachusetts,2,1,Apartment,90.0,8,"Back Bay, Boston.",150
+KW4349,California,2,1,Apartment,100.0,4,"Venice, Los Angeles.",100
+ZX9794,California,2,1,House,100.0,44,"Mid-Wilshire, Los Angeles.",155
+WL3940,ILLINOIS,4,2,Apartment,91.0,19,"Hyde Park, Chicago.",119
+DE2004,CALIFORNIA,3,1,House,98.0,79,"Boyle Heights, Los Angeles.",64
+EK6468,California,5,3,Apartment,100.0,2,"West Hollywood, Los Angeles.",138
+EH4553,california,1,1,Apartment,90.0,6,"Mission District, San Francisco.",59
+XK8818,ILLINOIS,4,2,Apartment,94.0,10,"Rogers Park, Chicago.",125
+OI6493,Massachusetts,4,1,Apartment,95.0,16,"Back Bay, Boston.",150
+DP9054,california,2,1,Apartment,91.0,19,"Hollywood, Los Angeles.",125
+DZ3129,CALIFORNIA,2,1,Apartment,98.0,10,"Brentwood, Los Angeles.",126
+QL3345,california,4,1,Apartment,98.0,52,"Downtown, Los Angeles.",177
+UC3651,MASSACHUSETTS,2,1,Apartment,100.0,1,"Allston-Brighton, Boston.",115
+CC5669,Massachusetts,2,1,Apartment,99.0,22,"Downtown Crossing, Boston.",98
+GW3917,ILLINOIS,4,1,Apartment,100.0,1,"Humboldt Park, Chicago.",64
+SK3939,California,10,6,House,83.0,82,"Torrance, Los Angeles.",198
+VL3851,Illinois,4,2,Apartment,100.0,6,"Gold Coast, Chicago.",59
+KQ7760,CALIFORNIA,2,2,Apartment,100.0,3,"Mid-Wilshire, Los Angeles.",79
+OD4038,California,2,1,Apartment,97.0,173,"Presidio, San Francisco.",104
+TJ9293,california,4,1,Apartment,90.0,2,"Torrance, Los Angeles.",135
+OD4237,California,2,1,House,100.0,12,"El Segundo, Los Angeles.",76
+RS6949,CALIFORNIA,2,1,House,98.0,52,"Glen Park, San Francisco.",119
+NF1849,MASSACHUSETTS,5,2,Apartment,95.0,4,"Back Bay, Boston.",177
+RR4859,CALIFORNIA,2,1,Apartment,87.0,3,"West Los Angeles, Los Angeles.",135
+RA7225,ILLINOIS,2,1,Apartment,89.0,13,"Uptown, Chicago.",70
+UV1980,Massachusetts,4,2,Apartment,80.0,3,"Fenway/Kenmore, Boston.",195
+FK1418,California,2,1,House,99.0,64,"San Pedro, Los Angeles.",70
+IT1593,massachusetts,1,1,Apartment,100.0,2,"Fenway/Kenmore, Boston.",64
+TP6054,massachusetts,6,3,Apartment,95.0,24,"Roxbury, Boston.",128
+PY4128,California,6,3,House,85.0,56,"Mid-Wilshire, Los Angeles.",175
+SF4556,MASSACHUSETTS,4,2,Apartment,100.0,3,"Chinatown, Boston.",85
+JX3709,california,4,3,Apartment,98.0,13,"Long Beach, Los Angeles.",164
+EK7778,california,4,1,House,99.0,14,"Redondo Beach, Los Angeles.",98
+CO7759,massachusetts,2,1,House,96.0,146,"South Boston, Boston.",69
+ZL3688,California,16,8,Villa,92.0,7,"Malibu, Los Angeles.",1794
+TJ1053,california,2,1,House,91.0,25,"Alamo Square, San Francisco.",125
+FF5853,MASSACHUSETTS,2,2,House,89.0,30,"Allston-Brighton, Boston.",98
+FS8844,CALIFORNIA,2,1,Apartment,97.0,19,"Downtown, San Francisco.",115
+BT3164,Illinois,2,1,Apartment,95.0,4,"Humboldt Park, Chicago.",119
+RJ9846,Illinois,4,1,Apartment,96.0,18,"Loop, Chicago.",149
+LN3479,California,2,2,Apartment,98.0,19,"East Hollywood, Los Angeles.",88
+FL3152,Illinois,4,2,Apartment,87.0,3,"Loop, Chicago.",109
+GJ5873,Massachusetts,6,3,Apartment,97.0,52,"North End, Boston.",149
+DT4158,Illinois,2,1,Condominium,100.0,10,"Logan Square, Chicago.",69
+LN3479,California,2,2,Apartment,99.0,25,"East Hollywood, Los Angeles.",91
+PJ7285,ILLINOIS,3,1,Apartment,97.0,33,"Boystown, Chicago.",79
+DN8123,california,2,1,Cabin,93.0,55,"Laurel Canyon, Los Angeles.",110
+GN7672,illinois,2,1,Condominium,97.0,23,"Uptown, Chicago.",76
+VZ3018,Massachusetts,2,1,Apartment,100.0,2,"Jamaica Plain, Boston.",62
+QP5542,massachusetts,2,1,House,86.0,329,"East Boston, Boston.",100
+JO4931,Massachusetts,3,2,Apartment,89.0,9,"Downtown Crossing, Boston.",128
+CW5291,California,2,1,Apartment,100.0,1,"Civic Center, San Francisco.",119
+UM9871,Massachusetts,1,1,House,92.0,40,"Back Bay, Boston.",98
+DV3941,California,2,1,Guesthouse,96.0,86,"Mid-Wilshire, Los Angeles.",129
+RU4360,Illinois,4,2,Apartment,96.0,38,"Wicker Park, Chicago.",127
+FC8427,illinois,4,2,Apartment,98.0,9,"Lincoln Park, Chicago.",128
+EL4129,Massachusetts,2,2,Apartment,60.0,2,"Roxbury, Boston.",69
+YQ9488,massachusetts,1,1,House,98.0,68,"South Boston, Boston.",105
+YQ8014,Massachusetts,3,2,Apartment,100.0,4,"Fenway/Kenmore, Boston.",129
+JJ4265,Massachusetts,4,3,Apartment,87.0,226,"Dorchester, Boston.",115
+HF6260,California,2,1,Apartment,99.0,26,"West Hollywood, Los Angeles.",74
+HB6896,Illinois,2,1,Apartment,95.0,10,"Lakeview, Chicago.",41
+KZ1671,california,2,1,Apartment,91.0,102,"Santa Monica, Los Angeles.",109
+BR7193,California,2,1,Apartment,98.0,38,"Hollywood Hills, Los Angeles.",74
+LS9255,california,3,1,Apartment,90.0,2,"Westwood, Los Angeles.",100
+RO7191,illinois,4,2,Apartment,97.0,21,"Wrigleyville, Chicago.",115
+BV3279,california,4,2,House,96.0,39,"Del Rey, Los Angeles.",195
+RP7516,massachusetts,4,2,Condominium,95.0,39,"South End, Boston.",159
+BY7562,Massachusetts,2,1,Apartment,100.0,6,"Jamaica Plain, Boston.",100
+XW1925,California,4,3,Apartment,100.0,1,"Westlake, Los Angeles.",98
+BG8077,illinois,2,1,Apartment,99.0,76,"Wrigleyville, Chicago.",48
+BR2480,Illinois,2,1,Apartment,95.0,24,"West Town/Noble Square, Chicago.",64
+TJ8008,CALIFORNIA,2,1,Apartment,100.0,2,"Silver Lake, Los Angeles.",100
+KZ3473,massachusetts,2,1,House,95.0,37,"Jamaica Plain, Boston.",110
+TC1202,illinois,5,2,Apartment,98.0,42,"Bucktown, Chicago.",169
+DT7557,California,5,1,Condominium,96.0,46,"Downtown, Los Angeles.",127
+NL4585,Massachusetts,2,1,House,90.0,66,"Allston-Brighton, Boston.",119
+LE7409,California,4,3,House,100.0,15,"Los Feliz, Los Angeles.",100
+AV3392,Massachusetts,5,2,Apartment,98.0,12,"Fenway/Kenmore, Boston.",150
+FT6599,Massachusetts,4,1,House,100.0,2,"West Roxbury, Boston.",125
+GY2506,Massachusetts,2,1,Apartment,99.0,38,"South Boston, Boston.",175
+ZT5326,California,4,2,House,97.0,29,"Hermosa Beach, Los Angeles.",150
+VA1941,massachusetts,2,1,Apartment,100.0,1,"South Boston, Boston.",100
+NK5610,illinois,6,3,Apartment,95.0,27,"Logan Square, Chicago.",100
+ES7972,MASSACHUSETTS,2,1,Apartment,100.0,3,"Fenway/Kenmore, Boston.",139
+UD8253,MASSACHUSETTS,3,1,Apartment,100.0,1,"Fenway/Kenmore, Boston.",124
+YD6612,California,4,3,Apartment,96.0,28,"Ingleside, San Francisco.",125
+ML7109,CALIFORNIA,2,1,Apartment,97.0,197,"Ingleside, San Francisco.",125
+UD8253,MASSACHUSETTS,3,1,Apartment,100.0,1,"Fenway/Kenmore, Boston.",124
+MY2186,Massachusetts,2,1,Apartment,80.0,1,"South Boston, Boston.",132
+NW1547,CALIFORNIA,2,2,Bed & Breakfast,89.0,135,"Culver City, Los Angeles.",74
+TT1073,Massachusetts,2,1,House,93.0,116,"Roxbury, Boston.",59
+AL7285,california,2,1,Guesthouse,85.0,11,"Visitacion Valley, San Francisco.",59
+WE8338,Illinois,3,1,Apartment,97.0,19,"Lincoln Park, Chicago.",100
+QN1297,california,2,1,Bed & Breakfast,99.0,152,"Westside, Los Angeles.",104
+NI8968,Massachusetts,2,1,Condominium,100.0,2,"Back Bay, Boston.",139
+CG5924,california,4,2,Apartment,95.0,36,"West Hollywood, Los Angeles.",139
+CC3288,california,2,1,House,97.0,7,"Silver Lake, Los Angeles.",70
+ER9850,California,2,1,House,95.0,66,"Westside, Los Angeles.",100
+SH7429,california,4,2,Apartment,99.0,58,"Mission District, San Francisco.",190
+BI5135,illinois,4,2,Condominium,95.0,37,"Ukrainian Village, Chicago.",147
+FL8660,Massachusetts,1,1,Apartment,94.0,7,"Allston-Brighton, Boston.",53
+JD2679,CALIFORNIA,4,2,Guesthouse,100.0,1,"Studio City, Los Angeles.",149
+YW6198,California,4,2,House,96.0,178,"Mid-Wilshire, Los Angeles.",100
+AT6016,california,1,1,Apartment,65.0,4,"Westwood, Los Angeles.",104
+IU8070,california,2,1,In-law,92.0,167,"Noe Valley, San Francisco.",144
+AS5102,Illinois,2,1,House,97.0,111,"Little Village, Chicago.",54
+HE5037,california,2,1,House,97.0,23,"Noe Valley, San Francisco.",119
+RW2361,california,2,1,House,89.0,14,"Long Beach, Los Angeles.",74
+RI8091,California,3,1,House,92.0,90,"Mar Vista, Los Angeles.",64
+RK1171,MASSACHUSETTS,4,2,Apartment,96.0,5,"South End, Boston.",199
+EK1497,Massachusetts,2,1,Condominium,98.0,17,"South Boston, Boston.",135
+SO8767,illinois,4,2,Condominium,100.0,4,"Ukrainian Village, Chicago.",119
+DW2170,Illinois,1,1,Apartment,100.0,3,"Bronzeville, Chicago.",59
+IP1265,California,1,1,Apartment,100.0,1,"SoMa, San Francisco.",100
+FJ4847,Massachusetts,4,2,Apartment,95.0,21,"Downtown Crossing, Boston.",128
+PS6026,Massachusetts,2,1,Condominium,100.0,3,"West End, Boston.",139
+TK2242,California,2,1,Apartment,100.0,4,"Studio City, Los Angeles.",119
+AF1699,California,2,1,Townhouse,97.0,30,"Long Beach, Los Angeles.",79
+QO8555,California,7,4,House,80.0,1,"Excelsior, San Francisco.",199
+WG7092,california,2,1,Apartment,96.0,158,"Del Rey, Los Angeles.",59
+ZY4976,illinois,4,2,Apartment,96.0,41,"Lakeview, Chicago.",81
+GK3705,MASSACHUSETTS,16,7,House,95.0,130,"Roslindale, Boston.",199
+VE5536,Massachusetts,1,1,Apartment,80.0,1,"Fenway/Kenmore, Boston.",98
+RH4328,CALIFORNIA,4,2,Apartment,100.0,7,"West Hollywood, Los Angeles.",150
+OA6888,California,2,1,Apartment,100.0,4,"SoMa, San Francisco.",115
+DC4208,ILLINOIS,5,3,House,,0,"Little Italy/UIC, Chicago.",100
+RV5167,California,2,1,House,93.0,3,"Outer Sunset, San Francisco.",74
+DY4174,california,4,2,Apartment,93.0,100,"SoMa, San Francisco.",103
+FA2484,illinois,2,1,Apartment,97.0,102,"Wicker Park, Chicago.",48
+YO1771,massachusetts,2,1,Apartment,90.0,10,"South End, Boston.",199
+ZO6469,illinois,4,2,House,95.0,11,"Austin, Chicago.",128
+CB2960,Illinois,8,5,Apartment,99.0,39,"Jefferson Park, Chicago.",110
+BZ3596,Illinois,2,1,Apartment,91.0,28,"Lakeview, Chicago.",119
+GW5998,Massachusetts,1,1,Apartment,100.0,3,"Beacon Hill, Boston.",108
+TR3561,Massachusetts,2,1,Apartment,95.0,51,"South End, Boston.",173
+VU2547,California,2,1,Apartment,100.0,1,"Hollywood, Los Angeles.",104
+TS5424,California,2,1,Apartment,95.0,14,"Beverly Hills, Los Angeles.",100
+IE7576,illinois,1,1,House,,0,"South Chicago, Chicago.",50
+IP3269,california,2,1,Apartment,100.0,2,"Hollywood, Los Angeles.",139
+TD5986,Illinois,2,1,Condominium,100.0,27,"West Ridge, Chicago.",54
+KR2586,ILLINOIS,2,1,House,92.0,10,"Auburn Gresham, Chicago.",59
+RM5265,massachusetts,3,1,Condominium,98.0,124,"South End, Boston.",95
+EE7495,CALIFORNIA,2,1,Apartment,100.0,2,"Brentwood, Los Angeles.",125
+DY9962,California,1,1,Condominium,,0,"Valley Village, Los Angeles.",85
+RS2610,Massachusetts,1,1,Apartment,97.0,6,"Roxbury, Boston.",100
+OO3410,CALIFORNIA,2,1,Apartment,96.0,162,"Silver Lake, Los Angeles.",128
+NI3228,CALIFORNIA,4,2,Apartment,93.0,27,"East Hollywood, Los Angeles.",122
+VF3688,Massachusetts,2,2,Apartment,93.0,3,"Jamaica Plain, Boston.",78
+VV8092,california,2,1,House,98.0,10,"Mission District, San Francisco.",55
+HQ8949,ILLINOIS,2,1,Apartment,99.0,15,"Andersonville, Chicago.",103
+HY7084,massachusetts,4,2,Apartment,93.0,167,"South End, Boston.",184
+MU2939,california,3,2,Bungalow,97.0,44,"Bel Air/Beverly Crest, Los Angeles.",124
+II8565,massachusetts,2,1,Apartment,93.0,8,"Allston-Brighton, Boston.",52
+VJ3482,Illinois,2,1,Apartment,82.0,25,"Logan Square, Chicago.",48
+BS3036,Illinois,2,1,Condominium,100.0,16,"Irving Park, Chicago.",59
+HD3819,massachusetts,2,1,House,99.0,52,"Dorchester, Boston.",100
+BM4661,massachusetts,2,1,Apartment,100.0,1,"South End, Boston.",139
+VO5789,illinois,2,1,Townhouse,99.0,78,"River West, Chicago.",100
+PY1639,California,2,1,Townhouse,100.0,2,"West Los Angeles, Los Angeles.",103
+IK8239,ILLINOIS,4,2,Apartment,100.0,20,"Logan Square, Chicago.",195
+ZG6743,illinois,6,2,Apartment,98.0,47,"Pilsen, Chicago.",160
+GJ4226,Illinois,2,1,Loft,100.0,14,"Little Italy/UIC, Chicago.",100
+IW1831,Massachusetts,2,1,Apartment,97.0,220,"Jamaica Plain, Boston.",50
+AE2981,MASSACHUSETTS,4,2,Apartment,93.0,3,"Downtown Crossing, Boston.",179
+SS3116,Illinois,4,1,Apartment,100.0,5,"Wrigleyville, Chicago.",139
+HH4131,Illinois,2,1,House,98.0,27,"Norwood Park, Chicago.",41
+MO1631,CALIFORNIA,2,1,Loft,91.0,18,"Mid-Wilshire, Los Angeles.",64
+ZE5306,Illinois,4,1,Apartment,97.0,30,"Lakeview, Chicago.",125
+LA8751,California,2,1,House,96.0,263,"Highland Park, Los Angeles.",59
+TL9265,california,2,2,House,98.0,9,"Venice, Los Angeles.",135
+NI7674,California,2,1,House,94.0,76,"West Hollywood, Los Angeles.",104
+SS9555,California,6,3,House,93.0,3,"Pasadena, Los Angeles.",110
+SM2325,California,2,1,Apartment,98.0,9,"Mar Vista, Los Angeles.",95
+UI8490,Illinois,2,1,Apartment,99.0,40,"Humboldt Park, Chicago.",150
+TT4738,california,3,2,Other,92.0,31,"Venice, Los Angeles.",115
+TK3034,CALIFORNIA,2,1,House,97.0,54,"Venice, Los Angeles.",125
+RN2875,Illinois,6,2,Apartment,95.0,23,"Lakeview, Chicago.",150
+UW2000,California,8,1,Other,,0,"South LA, Los Angeles.",169
+JG9139,MASSACHUSETTS,4,2,Apartment,96.0,105,"South End, Boston.",79
+TJ9932,ILLINOIS,4,2,Apartment,95.0,4,"West Town/Noble Square, Chicago.",125
+OB4468,California,4,1,House,100.0,12,"Venice, Los Angeles.",133
+QS1438,Illinois,4,2,Apartment,97.0,6,"Edgewater, Chicago.",79
+GE6066,California,2,1,House,99.0,21,"Pacific Palisades, Los Angeles.",119
+SS3365,California,2,1,Condominium,98.0,14,"Western Addition/NOPA, San Francisco.",119
+GI3103,California,5,2,Apartment,90.0,23,"Glendale, Los Angeles.",139
+VM7350,ILLINOIS,2,1,Apartment,,0,"Little Italy/UIC, Chicago.",46
+NC2181,illinois,3,2,Apartment,93.0,92,"Streeterville, Chicago.",169
+HI4266,Illinois,2,1,Apartment,86.0,21,"Logan Square, Chicago.",95
+CP6012,California,4,2,Condominium,95.0,28,"Venice, Los Angeles.",137
+RH7888,California,5,3,Apartment,100.0,3,"Hayes Valley, San Francisco.",150
+LO9691,California,2,1,Apartment,94.0,97,"Mid-Wilshire, Los Angeles.",125
+IP8102,illinois,6,4,House,96.0,59,"Uptown, Chicago.",144
+BZ3596,Illinois,2,1,House,89.0,30,"Lakeview, Chicago.",119
+GY8092,CALIFORNIA,2,1,House,97.0,15,"Outer Sunset, San Francisco.",79
+PI7124,MASSACHUSETTS,6,3,Apartment,92.0,43,"North End, Boston.",149
+BV4439,california,2,1,Apartment,95.0,96,"Potrero Hill, San Francisco.",124
+RL1986,CALIFORNIA,3,1,Apartment,96.0,20,"Hollywood Hills, Los Angeles.",124
+BX9112,CALIFORNIA,4,2,Apartment,94.0,118,"Hollywood, Los Angeles.",100
+LK2707,MASSACHUSETTS,4,2,Apartment,99.0,15,"Back Bay, Boston.",198
+XP1905,california,9,4,House,86.0,46,"Hawthorne, Los Angeles.",149
+YN6557,ILLINOIS,4,2,Apartment,100.0,10,"Jefferson Park, Chicago.",70
+WB9012,CALIFORNIA,3,1,Condominium,96.0,32,"Santa Monica, Los Angeles.",199
+ZV6226,ILLINOIS,4,2,Apartment,96.0,33,"Uptown, Chicago.",188
+UG1694,illinois,4,2,Apartment,80.0,1,"Rogers Park, Chicago.",100
+MV3164,CALIFORNIA,2,2,Condominium,100.0,3,"Mission District, San Francisco.",159
+MN2674,california,2,1,House,98.0,100,"Mission District, San Francisco.",199
+HI6065,California,2,1,Apartment,94.0,8,"Twin Peaks, San Francisco.",139
+IL6945,California,2,1,Apartment,98.0,11,"Mid-Wilshire, Los Angeles.",74
+OH8881,massachusetts,4,2,House,100.0,1,"East Boston, Boston.",129
+JB1517,Massachusetts,2,1,House,96.0,45,"Allston-Brighton, Boston.",68
+RY4487,CALIFORNIA,4,2,Apartment,100.0,11,"Hollywood, Los Angeles.",139
+UF3937,California,2,1,Apartment,100.0,1,"Beverly Hills, Los Angeles.",110
+DM6667,Massachusetts,4,2,Apartment,92.0,26,"Chinatown, Boston.",109
+TL4390,Massachusetts,6,3,Apartment,100.0,3,"North End, Boston.",149
+ER2572,massachusetts,4,2,House,87.0,49,"Allston-Brighton, Boston.",139
+YO2145,california,2,1,Apartment,95.0,44,"Parkside, San Francisco.",119
+AF3887,California,2,1,House,100.0,35,"Pasadena, Los Angeles.",115
+II3244,California,2,1,House,94.0,14,"Noe Valley, San Francisco.",150
+OD8356,CALIFORNIA,3,1,Apartment,93.0,91,"Long Beach, Los Angeles.",133
+TN4715,Illinois,2,1,Condominium,95.0,147,"River North, Chicago.",115
+YD4452,MASSACHUSETTS,2,1,Apartment,94.0,50,"Charlestown, Boston.",150
+US7584,CALIFORNIA,1,1,Apartment,94.0,60,"West Hollywood, Los Angeles.",79
+TY7657,California,4,2,House,97.0,44,"Topanga, Los Angeles.",175
+NH9205,California,4,2,Apartment,,0,"El Segundo, Los Angeles.",100
+WH5904,ILLINOIS,4,2,Apartment,80.0,2,"Bridgeport, Chicago.",129
+MZ7426,massachusetts,2,1,Other,95.0,4,"Roxbury, Boston.",79
+FE9007,massachusetts,3,2,Apartment,94.0,15,"Downtown Crossing, Boston.",128
+ZH9116,Illinois,4,2,Apartment,93.0,31,"Pilsen, Chicago.",160
+PV7798,Massachusetts,3,2,Condominium,98.0,16,"South End, Boston.",149
+UU5467,Illinois,8,4,Apartment,95.0,13,"Wrigleyville, Chicago.",139
+EG1574,Illinois,4,2,Apartment,93.0,14,"River North, Chicago.",110
+SA2332,California,16,1,House,100.0,1,"Hollywood, Los Angeles.",199
+SH5853,massachusetts,2,1,House,90.0,3,"West Roxbury, Boston.",139
+LD8275,California,4,1,Apartment,93.0,9,"North Hollywood, Los Angeles.",125
+WW2405,massachusetts,4,2,Condominium,99.0,59,"East Boston, Boston.",119
+QA7175,Illinois,6,3,Apartment,92.0,19,"Lakeview, Chicago.",109
+QW4384,California,2,1,Apartment,98.0,8,"Potrero Hill, San Francisco.",98
+TG4403,California,4,2,House,100.0,17,"Topanga, Los Angeles.",125
+XR8809,Massachusetts,2,2,Apartment,98.0,9,"Theater District, Boston.",89
+FP9471,California,2,1,Other,98.0,34,"Northridge, Los Angeles.",98
+FH1083,Illinois,8,4,Apartment,97.0,105,"Avondale, Chicago.",115
+KF1563,massachusetts,4,3,Apartment,84.0,10,"Jamaica Plain, Boston.",117
+YS8388,California,2,1,Apartment,86.0,17,"South Robertson, Los Angeles.",56
+YI2593,California,2,1,Apartment,97.0,25,"Nob Hill, San Francisco.",164
+EH9822,Illinois,2,1,House,99.0,15,"West Town/Noble Square, Chicago.",74
+TJ2269,massachusetts,2,1,Apartment,80.0,4,"Roxbury, Boston.",125
+NX5053,california,2,1,House,96.0,185,"Duboce Triangle, San Francisco.",155
+DM2646,Illinois,8,3,Loft,94.0,61,"Old Town, Chicago.",133
+FG5631,california,2,1,House,100.0,1,"Torrance, Los Angeles.",104
+ZD2380,MASSACHUSETTS,4,2,Apartment,75.0,4,"East Boston, Boston.",169
+DM9474,CALIFORNIA,2,1,Apartment,97.0,7,"SoMa, San Francisco.",85
+NO2037,CALIFORNIA,2,1,Apartment,93.0,9,"Long Beach, Los Angeles.",119
+UZ7284,ILLINOIS,2,1,Apartment,97.0,63,"Bronzeville, Chicago.",62
+AY4782,california,3,2,Apartment,98.0,525,"Mission District, San Francisco.",139
+PU9653,CALIFORNIA,4,2,House,100.0,17,"West Hollywood, Los Angeles.",164
+WU1572,california,7,3,Apartment,94.0,71,"Hollywood Hills, Los Angeles.",100
+UT2755,Massachusetts,2,1,Apartment,97.0,7,"Fenway/Kenmore, Boston.",160
+ZR8194,ILLINOIS,4,2,Apartment,100.0,8,"Lakeview, Chicago.",98
+NP6990,Massachusetts,2,1,House,99.0,40,"West Roxbury, Boston.",59
+JA8584,Massachusetts,2,1,Apartment,100.0,1,"Beacon Hill, Boston.",197
+JE8565,CALIFORNIA,1,1,House,94.0,24,"Valley Glen, Los Angeles.",46
+HM8008,illinois,8,3,Apartment,95.0,131,"Ukrainian Village, Chicago.",129
+YJ2486,California,2,1,House,98.0,33,"Woodland Hills/Warner Center, Los Angeles.",46
+KO1076,Illinois,2,1,Apartment,93.0,4,"Near North Side, Chicago.",175
+LV9092,ILLINOIS,2,1,Apartment,100.0,2,"Humboldt Park, Chicago.",88
+DR8379,California,5,3,House,97.0,98,"Carson, Los Angeles.",125
+WU7607,Massachusetts,2,1,Apartment,99.0,22,"South End, Boston.",98
+LH6030,Massachusetts,3,2,Apartment,100.0,2,"Dorchester, Boston.",125
+IT3784,Massachusetts,2,1,House,90.0,356,"East Boston, Boston.",104
+GR9071,ILLINOIS,5,2,Apartment,87.0,3,"Wicker Park, Chicago.",149
+ZM5980,Massachusetts,5,3,Apartment,98.0,145,"Jamaica Plain, Boston.",139
+NK5195,ILLINOIS,4,2,Condominium,97.0,42,"Lincoln Park, Chicago.",122
+LE9861,MASSACHUSETTS,2,1,Condominium,98.0,21,"South End, Boston.",128
+YL2411,Massachusetts,2,1,Apartment,100.0,12,"Allston-Brighton, Boston.",149
+FV3532,California,1,1,Condominium,80.0,1,"Marina, San Francisco.",125
+AO3454,Massachusetts,2,1,Apartment,93.0,3,"Mattapan, Boston.",48
+ST4478,California,2,1,Apartment,90.0,32,"Mid-Wilshire, Los Angeles.",110
+ZL4390,California,3,2,Apartment,98.0,47,"Burbank, Los Angeles.",119
+PL2520,Illinois,2,1,Apartment,93.0,21,"Loop, Chicago.",119
+MJ8802,CALIFORNIA,3,1,Condominium,100.0,1,"Marina Del Rey, Los Angeles.",98
+CW2210,California,2,1,Apartment,98.0,11,"Echo Park, Los Angeles.",115
+IQ4844,California,2,1,Apartment,88.0,16,"East Hollywood, Los Angeles.",69
+IR1844,massachusetts,5,4,Apartment,84.0,5,"Allston-Brighton, Boston.",119
+TC9537,illinois,4,2,Apartment,100.0,2,"Old Town, Chicago.",128
+IH9457,massachusetts,2,1,House,93.0,153,"South Boston, Boston.",122
+CJ5335,california,2,1,House,90.0,63,"Mar Vista, Los Angeles.",55
+CJ1310,Illinois,6,3,House,96.0,53,"West Town/Noble Square, Chicago.",122
+HU4579,MASSACHUSETTS,3,1,Condominium,93.0,24,"South Boston, Boston.",108
+RP1611,CALIFORNIA,3,1,Apartment,96.0,39,"Venice, Los Angeles.",175
+JV8487,CALIFORNIA,2,1,House,98.0,11,"Bernal Heights, San Francisco.",125
+WE7914,california,2,1,House,100.0,19,"Balboa Terrace, San Francisco.",122
+LG6908,California,2,1,Apartment,100.0,3,"Financial District, San Francisco.",195
+TJ3988,CALIFORNIA,6,3,House,100.0,5,"Arcadia, Los Angeles.",188
+HR9207,massachusetts,2,1,Apartment,99.0,22,"East Boston, Boston.",125
+VM9239,Illinois,4,1,Apartment,96.0,11,"Lincoln Park, Chicago.",139
+GY7214,CALIFORNIA,6,4,Apartment,94.0,7,"Sherman Oaks, Los Angeles.",74
+QH8329,California,2,1,Apartment,100.0,4,"Marina Del Rey, Los Angeles.",190
+RJ4302,california,4,1,Other,100.0,21,"Noe Valley, San Francisco.",139
+WQ9969,massachusetts,2,2,House,100.0,1,"Jamaica Plain, Boston.",125
+XG3289,California,2,1,Apartment,97.0,60,"Venice, Los Angeles.",150
+ZR5298,california,4,2,Apartment,93.0,3,"Mid-Wilshire, Los Angeles.",100
+XZ5531,California,2,1,Bungalow,93.0,3,"Redondo Beach, Los Angeles.",100
+EE8333,ILLINOIS,2,1,House,80.0,15,"Lakeview, Chicago.",115
+AA6024,Massachusetts,3,1,Apartment,96.0,61,"East Boston, Boston.",115
